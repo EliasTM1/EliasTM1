@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I am deeply invested in crafting visually appealing, responsive websites using modern JavaScript, and I am continuously enhancing my skills and knowledge in this domain. 
+
+I am excited to embrace new challenges and contribute to impactful projects. I am seeking an opportunity to join an organization where I can nurture my growth as a front-end developer and apply my skills to practical projects.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,angular,react,aws,mongodb,azure,bash,bootstrap,docker,figma,firebase,git,github,vscode,)](https://skillicons.dev)
 <!--
 **EliasTM1/EliasTM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
