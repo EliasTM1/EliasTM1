@@ -1,9 +1,11 @@
-### Hi there 👋
 
+# Hello!
 
-I am deeply invested in crafting visually appealing, responsive websites using modern JavaScript, and I am continuously enhancing my skills and knowledge in this domain. 
+Invested in crafting visually appealing, responsive websites using modern JavaScript, and continuously enhancing my skills and knowledge in this domain. 
 
-I am excited to embrace new challenges and contribute to impactful projects. I am seeking an opportunity to join an organization where I can nurture my growth as a front-end developer and apply my skills to practical projects.
+I embrace new challenges and contribute to impactful projects. I am seeking an opportunity to join an organization where I can nurture my growth as a front-end developer and apply my skills to practical projects.
+
+## Tools and Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,angular,react,aws,mongodb,azure,bash,bootstrap,docker,figma,firebase,git,vscode,)](https://skillicons.dev)
 <!--
