@@ -1,5 +1,5 @@
 
-# Hello!
+# My name is Elias - FE Dev
 
 Invested in crafting visually appealing, responsive websites using modern JavaScript, and continuously enhancing my skills and knowledge in this domain. 
 
