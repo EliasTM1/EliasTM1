@@ -1,9 +1,7 @@
 
-# My name is Elias - FE Dev
+# My name is Elias - Web Dev
 
-Invested in crafting visually appealing, responsive websites using modern JavaScript, and continuously enhancing my skills and knowledge in this domain. 
-
-I embrace new challenges and contribute to impactful projects. I am seeking an opportunity to join an organization where I can nurture my growth as a front-end developer and apply my skills to practical projects.
+Roast my code. 
 
 ## Tools and Technologies
 
