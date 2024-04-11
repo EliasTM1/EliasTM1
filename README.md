@@ -5,7 +5,7 @@ Roast my code.
 
 ## Tools and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,angular,react,aws,mongodb,azure,bash,bootstrap,docker,figma,firebase,git,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,angular,react,aws,mongodb,azure,bootstrap,docker,figma,git,vscode,)](https://skillicons.dev)
 <!--
 **EliasTM1/EliasTM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
